@@ -5,7 +5,7 @@
   ## Getting Started
   1. Clone or download this repository to your local machine.
   2. To run this you nedd to have DOCKER DESKTOP and PYTHON installed on your system.
-  3. For python packages refer to the requirements.txt
+  3. For python packages refer to the [requirements.txt](requirements.txt)
      ```bash
      pip install fastapi
      pip install pydantic
