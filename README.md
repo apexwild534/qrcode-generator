@@ -13,7 +13,7 @@
      pip install qrcode
   4. To run this in Docker first run the following commands (to build and run) in your terminal where the project is cloned.
      ```bash
-     docker docker build -t qr-code-generator-app .
+     docker build -t qr-code-generator-app .
      docker run -d -p 80:80 qr-code-generator-app
   5. Now, open the Docker Desktop and see whether if the Container is created or not, if not try again.
   6. If yes, the go to your default browser and type
